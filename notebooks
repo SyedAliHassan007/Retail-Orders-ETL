@@ -1,0 +1,3 @@
+Change: create_engine('mssql+pyodbc://DESKTOP-CAQA1S5/master...')
+
+To: create_engine('mssql+pyodbc://YOUR_SERVER_NAME/master?driver=ODBC+Driver+17+for+SQL+Server&trusted_connection=yes')
